@@ -1,0 +1,3 @@
+DB_URL=mongodb+srv://...
+DB_NAME=stockTrading
+DB_STOCKORDERS_COLLECTION=stockOrders
